@@ -1,0 +1,41 @@
+body {
+  font-family: "Lato";
+  margin: 0;
+  padding: 0;
+}
+
+#myKanban {
+  overflow-x: auto;
+  padding: 20px 0;
+}
+
+.success {
+  background: #00b961;
+}
+
+.info {
+  background: #2a92bf;
+}
+
+.warning {
+  background: #f4ce46;
+}
+
+.error {
+  background: #fb7d44;
+}
+
+.custom-button {
+  background-color: #095fd2;
+  border: none;
+  color: white;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}     
+
+.form-control{
+  width: 100%;
+}
